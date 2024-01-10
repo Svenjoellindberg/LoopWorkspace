@@ -47,6 +47,7 @@ jobs:
           limit_loop_cycle_time \
           now_line \
           lnl_icon \
+          customtypeone_looppatches \
           2002 \
           algorithm_experiments \
 
