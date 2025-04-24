@@ -292,6 +292,7 @@ jobs:
           dexcom_upload_readings \
           future_carbs_4h \
           high_carb_limit \
+          no_auth \
           override_sens \
           now_line \
           lnl_icon \
